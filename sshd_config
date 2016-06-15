@@ -11,7 +11,7 @@ PasswordAuthentication no
 UsePrivilegeSeparation no
 PermitUserEnvironment yes
 AllowUsers root
-
+GatewayPorts yes
 RSAAuthentication yes
 PubkeyAuthentication yes
 #ChallengeResponseAuthentication no
